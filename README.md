@@ -27,3 +27,5 @@ The creation of the interface was designed to reduce risks and allow all schedul
 Thus, the objective is to implement an interoperable electronic medical record system interconnected to the photographic record bank of patients assisted by the Brazilian Unified Health System.
 
 ----
+
+Protótipo de telas interativo (Prototype of interactive screens): \href{https://www.figma.com/proto/M2igiHrzBeHn9JEH5KJ3zy/SISTEMA-PARA-GERENCIAMENTO-DE-IMAGENS-MEDICAS-APLICADO-AO-TRATAMENTO-E-CUIDADOS-DE-FERIDAS?node-id=240\%3A2820&scaling=scale-down&page-id=221\%3A485&starting-point-node-id=240\%3A2820}{https://www.figma.com/proto/SISTEMA-PARA-\\GERENCIAMENTO-DE-IMAGENS-MEDICAS}
