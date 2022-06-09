@@ -28,4 +28,4 @@ Thus, the objective is to implement an interoperable electronic medical record s
 
 ----
 
-Protótipo de telas interativo (Prototype of interactive screens): \href{https://www.figma.com/proto/M2igiHrzBeHn9JEH5KJ3zy/SISTEMA-PARA-GERENCIAMENTO-DE-IMAGENS-MEDICAS-APLICADO-AO-TRATAMENTO-E-CUIDADOS-DE-FERIDAS?node-id=240\%3A2820&scaling=scale-down&page-id=221\%3A485&starting-point-node-id=240\%3A2820}{https://www.figma.com/proto/SISTEMA-PARA-\\GERENCIAMENTO-DE-IMAGENS-MEDICAS}
+Protótipo de telas interativo (Prototype of interactive screens): https://www.figma.com/proto/M2igiHrzBeHn9JEH5KJ3zy/SISTEMA-PARA-GERENCIAMENTO-DE-IMAGENS-MEDICAS-APLICADO-AO-TRATAMENTO-E-CUIDADOS-DE-FERIDAS?node-id=240\%3A2820&scaling=scale-down&page-id=221\%3A485&starting-point-node-id=240\%3A2820
