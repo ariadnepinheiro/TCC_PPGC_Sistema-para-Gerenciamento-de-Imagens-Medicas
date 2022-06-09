@@ -1,6 +1,6 @@
 # Sistema para Gerenciamento de Imagens Médicas aplicado ao tratamento e cuidados de feridas
 
-### Resumo:
+### Resumo
 
 O contexto brasileiro, apesar de toda evolução tecnológica e acessibilidade à câmera fotográfica e celular, percebe-se que há uma falta da padronização do registro fotográfico, na prática de utilizar as imagens digitais com qualidade no cuidado ao paciente com feridas. Em tratamentos como o de queimaduras ou de câncer de pele, o registro e a análise contínua das imagens da lesão demonstram a evolução do quadro clínico, indicando se houve melhora ou piora no estado de saúde do paciente.
 
